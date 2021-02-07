@@ -1,2 +1,2 @@
-# discord-mass-channel-delete
+go use better scripts (;
 ok
